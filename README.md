@@ -1,0 +1,3 @@
+# AnimeBulletinResponsive1.0
+
+Sorry I forgot to fix some bugs.....
